@@ -10,8 +10,8 @@ justify-content: center;
  * that contains the map. 
  */
  .map {
-    height: 80vh;
-    width: 80vw;
+    height: 100%;
+    width: 100%;
   }
 
 

@@ -8,10 +8,10 @@ import FilterComponent from "./Components/FilterComponent/FilterComponent";
 const App: React.FC = () => {
   return (
     <Provider>
-      <FilterComponent />
+  
       <MapComponent />
-      <Toaster />
-      <LoadingWheel />
+ 
+    
     </Provider>
   );
 };
